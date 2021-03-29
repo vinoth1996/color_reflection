@@ -164,7 +164,7 @@ section {
   padding: 0;
   line-height: 0;
   font-weight: 700;
-  letter-spacing: 1px;
+  letter-spacing: .5px;
 }
 
 #header .logo h1 a, #header .logo h1 a:hover {
